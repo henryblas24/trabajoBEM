@@ -1,0 +1,26 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: aqua;
+  width: 960px;
+  height: 200px;
+}
+header__logo {
+  font-family: "Courier New", Courier, monospace;
+  color: blue;
+}
+header--dark {
+  background-color: white;
+}
+
+nav ul li {
+  list-style: none;
+  float: right;
+  margin-left: 50px;
+  margin-right: 20PX;
+  align-items: flex-start;
+}/*# sourceMappingURL=styles.css.map */
